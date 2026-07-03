@@ -61,5 +61,5 @@
 
 ---
 <p align="center">
-  <i>Puedes personalizar los temas, agregar redes sociales y más. ¡Este es solo el comienzo de tu increíble perfil!</i>
+  <i></i>
 </p>
