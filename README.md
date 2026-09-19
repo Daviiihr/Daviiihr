@@ -58,14 +58,14 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daviihr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Estadísticas de daviihr" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviihr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daviiihr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Estadísticas de daviihr" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviiihr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes más usados" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=daviihr&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=daviiihr&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -73,9 +73,9 @@
 <div align="center">
   <!-- Requiere el workflow .github/workflows/snake.yml (ver instrucciones) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviihr/daviihr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviihr/daviihr/output/github-contribution-grid-snake.svg">
-    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/daviihr/daviihr/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviiihr/daviiihr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviiihr/daviiihr/output/github-contribution-grid-snake.svg">
+    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/daviiihr/daviiihr/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
