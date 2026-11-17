@@ -18,7 +18,7 @@
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente trabajando en **proyectos personales**.
-- 🌱 Aprendiendo y practicando **Java, Spring Boot y Docker**.
+- 🌱 Aprendiendo y practicando **Rust, Java, Spring Boot y Docker**.
 - 🐧 Usuario de **Arch Linux**.
 - 💡 Siempre buscando mejorar mis habilidades en el desarrollo de software.
 
