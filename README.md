@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./daviiihr-ascii.svg" alt="Perfil ASCII de @daviiihr" width="100%" />
+  <img src="./daviiihr-ascii-animado.svg" alt="Perfil ASCII de @daviiihr" width="100%" />
 </p>
 
 ## 📊 Estadísticas de GitHub
