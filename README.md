@@ -1,16 +1,3 @@
-<h1 align="center">¡Hola! Soy daviiihr 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desarrollador+apasionado+por+aprender;Backend+con+Java+y+Spring+Boot;I+used+Arch+Linux+(btw)" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daviihr&style=flat-square&color=7AA2F7" alt="Visitas al perfil" />
-  <img src="https://img.shields.io/github/followers/daviihr?style=flat-square&color=7AA2F7" alt="Seguidores" />
-</p>
-
----
-
 <p align="center">
   <img src="./daviiihr-ascii.svg" alt="Perfil ASCII de @daviiihr" width="100%" />
 </p>
@@ -40,7 +27,12 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daviihr&style=flat-square&color=7AA2F7" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/daviihr?style=flat-square&color=7AA2F7" alt="Seguidores" />
+</p>
 
+---
 <p align="center">
   <i>"Primero hazlo funcionar, luego hazlo bien, luego hazlo rápido."</i>
 </p>
